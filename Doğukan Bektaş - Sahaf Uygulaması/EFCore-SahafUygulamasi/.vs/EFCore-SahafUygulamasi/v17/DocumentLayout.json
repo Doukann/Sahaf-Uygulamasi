@@ -1,0 +1,164 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Latitude\\Desktop\\BoostKD25 - Projeler\\Do\u011Fukan Bekta\u015F - Case2_EFCore_SahafUygulamas\u0131\\EFCore-SahafUygulamasi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5FC566A8-55A5-48FE-9D60-1F7B8DAA13AE}|SahafUygulamasi\\SahafUygulamasi.csproj|c:\\users\\latitude\\desktop\\boostkd25 - projeler\\do\u011Fukan bekta\u015F - case2_efcore_sahafuygulamas\u0131\\efcore-sahafuygulamasi\\sahafuygulamasi\\formyazar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5FC566A8-55A5-48FE-9D60-1F7B8DAA13AE}|SahafUygulamasi\\SahafUygulamasi.csproj|solutionrelative:sahafuygulamasi\\formyazar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FC566A8-55A5-48FE-9D60-1F7B8DAA13AE}|SahafUygulamasi\\SahafUygulamasi.csproj|C:\\Users\\Latitude\\Desktop\\BoostKD25 - Projeler\\Do\u011Fukan Bekta\u015F - Case2_EFCore_SahafUygulamas\u0131\\EFCore-SahafUygulamasi\\sahafuygulamasi\\formrapor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5FC566A8-55A5-48FE-9D60-1F7B8DAA13AE}|SahafUygulamasi\\SahafUygulamasi.csproj|solutionrelative:sahafuygulamasi\\formrapor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FC566A8-55A5-48FE-9D60-1F7B8DAA13AE}|SahafUygulamasi\\SahafUygulamasi.csproj|C:\\Users\\Latitude\\Desktop\\BoostKD25 - Projeler\\Do\u011Fukan Bekta\u015F - Case2_EFCore_SahafUygulamas\u0131\\EFCore-SahafUygulamasi\\sahafuygulamasi\\formkullaniciekrani.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5FC566A8-55A5-48FE-9D60-1F7B8DAA13AE}|SahafUygulamasi\\SahafUygulamasi.csproj|solutionrelative:sahafuygulamasi\\formkullaniciekrani.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FC566A8-55A5-48FE-9D60-1F7B8DAA13AE}|SahafUygulamasi\\SahafUygulamasi.csproj|C:\\Users\\Latitude\\Desktop\\BoostKD25 - Projeler\\Do\u011Fukan Bekta\u015F - Case2_EFCore_SahafUygulamas\u0131\\EFCore-SahafUygulamasi\\sahafuygulamasi\\formkullanici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5FC566A8-55A5-48FE-9D60-1F7B8DAA13AE}|SahafUygulamasi\\SahafUygulamasi.csproj|solutionrelative:sahafuygulamasi\\formkullanici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FC566A8-55A5-48FE-9D60-1F7B8DAA13AE}|SahafUygulamasi\\SahafUygulamasi.csproj|C:\\Users\\Latitude\\Desktop\\BoostKD25 - Projeler\\Do\u011Fukan Bekta\u015F - Case2_EFCore_SahafUygulamas\u0131\\EFCore-SahafUygulamasi\\sahafuygulamasi\\formkategori.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5FC566A8-55A5-48FE-9D60-1F7B8DAA13AE}|SahafUygulamasi\\SahafUygulamasi.csproj|solutionrelative:sahafuygulamasi\\formkategori.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FC566A8-55A5-48FE-9D60-1F7B8DAA13AE}|SahafUygulamasi\\SahafUygulamasi.csproj|C:\\Users\\Latitude\\Desktop\\BoostKD25 - Projeler\\Do\u011Fukan Bekta\u015F - Case2_EFCore_SahafUygulamas\u0131\\EFCore-SahafUygulamasi\\sahafuygulamasi\\formgiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5FC566A8-55A5-48FE-9D60-1F7B8DAA13AE}|SahafUygulamasi\\SahafUygulamasi.csproj|solutionrelative:sahafuygulamasi\\formgiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FC566A8-55A5-48FE-9D60-1F7B8DAA13AE}|SahafUygulamasi\\SahafUygulamasi.csproj|c:\\users\\latitude\\desktop\\boostkd25 - projeler\\do\u011Fukan bekta\u015F - case2_efcore_sahafuygulamas\u0131\\efcore-sahafuygulamasi\\sahafuygulamasi\\formgiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FC566A8-55A5-48FE-9D60-1F7B8DAA13AE}|SahafUygulamasi\\SahafUygulamasi.csproj|solutionrelative:sahafuygulamasi\\formgiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FC566A8-55A5-48FE-9D60-1F7B8DAA13AE}|SahafUygulamasi\\SahafUygulamasi.csproj|c:\\users\\latitude\\desktop\\boostkd25 - projeler\\do\u011Fukan bekta\u015F - case2_efcore_sahafuygulamas\u0131\\efcore-sahafuygulamasi\\sahafuygulamasi\\formkullaniciekrani.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FC566A8-55A5-48FE-9D60-1F7B8DAA13AE}|SahafUygulamasi\\SahafUygulamasi.csproj|solutionrelative:sahafuygulamasi\\formkullaniciekrani.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FC566A8-55A5-48FE-9D60-1F7B8DAA13AE}|SahafUygulamasi\\SahafUygulamasi.csproj|c:\\users\\latitude\\desktop\\boostkd25 - projeler\\do\u011Fukan bekta\u015F - case2_efcore_sahafuygulamas\u0131\\efcore-sahafuygulamasi\\sahafuygulamasi\\formkategori.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FC566A8-55A5-48FE-9D60-1F7B8DAA13AE}|SahafUygulamasi\\SahafUygulamasi.csproj|solutionrelative:sahafuygulamasi\\formkategori.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 305,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormYazar.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Latitude\\Desktop\\BoostKD25 - Projeler\\Do\u011Fukan Bekta\u015F - Case2_EFCore_SahafUygulamas\u0131\\EFCore-SahafUygulamasi\\SahafUygulamasi\\FormYazar.cs",
+              "RelativeDocumentMoniker": "SahafUygulamasi\\FormYazar.cs",
+              "ToolTip": "C:\\Users\\Latitude\\Desktop\\BoostKD25 - Projeler\\Do\u011Fukan Bekta\u015F - Case2_EFCore_SahafUygulamas\u0131\\EFCore-SahafUygulamasi\\SahafUygulamasi\\FormYazar.cs [Design]",
+              "RelativeToolTip": "SahafUygulamasi\\FormYazar.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T12:08:54.936Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormRapor.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Latitude\\Desktop\\BoostKD25 - Projeler\\Do\u011Fukan Bekta\u015F - Case2_EFCore_SahafUygulamas\u0131\\EFCore-SahafUygulamasi\\SahafUygulamasi\\FormRapor.cs",
+              "RelativeDocumentMoniker": "SahafUygulamasi\\FormRapor.cs",
+              "ToolTip": "C:\\Users\\Latitude\\Desktop\\BoostKD25 - Projeler\\Do\u011Fukan Bekta\u015F - Case2_EFCore_SahafUygulamas\u0131\\EFCore-SahafUygulamasi\\SahafUygulamasi\\FormRapor.cs [Design]",
+              "RelativeToolTip": "SahafUygulamasi\\FormRapor.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T12:08:50.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormKullanici.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Latitude\\Desktop\\BoostKD25 - Projeler\\Do\u011Fukan Bekta\u015F - Case2_EFCore_SahafUygulamas\u0131\\EFCore-SahafUygulamasi\\SahafUygulamasi\\FormKullanici.cs",
+              "RelativeDocumentMoniker": "SahafUygulamasi\\FormKullanici.cs",
+              "ToolTip": "C:\\Users\\Latitude\\Desktop\\BoostKD25 - Projeler\\Do\u011Fukan Bekta\u015F - Case2_EFCore_SahafUygulamas\u0131\\EFCore-SahafUygulamasi\\SahafUygulamasi\\FormKullanici.cs [Design]",
+              "RelativeToolTip": "SahafUygulamasi\\FormKullanici.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T12:08:33.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormKategori.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Latitude\\Desktop\\BoostKD25 - Projeler\\Do\u011Fukan Bekta\u015F - Case2_EFCore_SahafUygulamas\u0131\\EFCore-SahafUygulamasi\\SahafUygulamasi\\FormKategori.cs",
+              "RelativeDocumentMoniker": "SahafUygulamasi\\FormKategori.cs",
+              "ToolTip": "C:\\Users\\Latitude\\Desktop\\BoostKD25 - Projeler\\Do\u011Fukan Bekta\u015F - Case2_EFCore_SahafUygulamas\u0131\\EFCore-SahafUygulamasi\\SahafUygulamasi\\FormKategori.cs [Design]",
+              "RelativeToolTip": "SahafUygulamasi\\FormKategori.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T12:03:40.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormGiris.cs",
+              "DocumentMoniker": "C:\\Users\\Latitude\\Desktop\\BoostKD25 - Projeler\\Do\u011Fukan Bekta\u015F - Case2_EFCore_SahafUygulamas\u0131\\EFCore-SahafUygulamasi\\SahafUygulamasi\\FormGiris.cs",
+              "RelativeDocumentMoniker": "SahafUygulamasi\\FormGiris.cs",
+              "ToolTip": "C:\\Users\\Latitude\\Desktop\\BoostKD25 - Projeler\\Do\u011Fukan Bekta\u015F - Case2_EFCore_SahafUygulamas\u0131\\EFCore-SahafUygulamasi\\SahafUygulamasi\\FormGiris.cs",
+              "RelativeToolTip": "SahafUygulamasi\\FormGiris.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAA8wDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T11:59:39.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormGiris.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Latitude\\Desktop\\BoostKD25 - Projeler\\Do\u011Fukan Bekta\u015F - Case2_EFCore_SahafUygulamas\u0131\\EFCore-SahafUygulamasi\\SahafUygulamasi\\FormGiris.cs",
+              "RelativeDocumentMoniker": "SahafUygulamasi\\FormGiris.cs",
+              "ToolTip": "C:\\Users\\Latitude\\Desktop\\BoostKD25 - Projeler\\Do\u011Fukan Bekta\u015F - Case2_EFCore_SahafUygulamas\u0131\\EFCore-SahafUygulamasi\\SahafUygulamasi\\FormGiris.cs [Design]",
+              "RelativeToolTip": "SahafUygulamasi\\FormGiris.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T11:57:48.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormKullaniciEkrani.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Latitude\\Desktop\\BoostKD25 - Projeler\\Do\u011Fukan Bekta\u015F - Case2_EFCore_SahafUygulamas\u0131\\EFCore-SahafUygulamasi\\SahafUygulamasi\\FormKullaniciEkrani.cs",
+              "RelativeDocumentMoniker": "SahafUygulamasi\\FormKullaniciEkrani.cs",
+              "ToolTip": "C:\\Users\\Latitude\\Desktop\\BoostKD25 - Projeler\\Do\u011Fukan Bekta\u015F - Case2_EFCore_SahafUygulamas\u0131\\EFCore-SahafUygulamasi\\SahafUygulamasi\\FormKullaniciEkrani.cs [Design]",
+              "RelativeToolTip": "SahafUygulamasi\\FormKullaniciEkrani.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T11:57:51.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FormKullaniciEkrani.cs",
+              "DocumentMoniker": "C:\\Users\\Latitude\\Desktop\\BoostKD25 - Projeler\\Do\u011Fukan Bekta\u015F - Case2_EFCore_SahafUygulamas\u0131\\EFCore-SahafUygulamasi\\SahafUygulamasi\\FormKullaniciEkrani.cs",
+              "RelativeDocumentMoniker": "SahafUygulamasi\\FormKullaniciEkrani.cs",
+              "ToolTip": "C:\\Users\\Latitude\\Desktop\\BoostKD25 - Projeler\\Do\u011Fukan Bekta\u015F - Case2_EFCore_SahafUygulamas\u0131\\EFCore-SahafUygulamasi\\SahafUygulamasi\\FormKullaniciEkrani.cs",
+              "RelativeToolTip": "SahafUygulamasi\\FormKullaniciEkrani.cs",
+              "ViewState": "AgIAAOUAAAAAAAAAAAAuwOoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T11:59:25.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FormKategori.cs",
+              "DocumentMoniker": "C:\\Users\\Latitude\\Desktop\\BoostKD25 - Projeler\\Do\u011Fukan Bekta\u015F - Case2_EFCore_SahafUygulamas\u0131\\EFCore-SahafUygulamasi\\SahafUygulamasi\\FormKategori.cs",
+              "RelativeDocumentMoniker": "SahafUygulamasi\\FormKategori.cs",
+              "ToolTip": "C:\\Users\\Latitude\\Desktop\\BoostKD25 - Projeler\\Do\u011Fukan Bekta\u015F - Case2_EFCore_SahafUygulamas\u0131\\EFCore-SahafUygulamasi\\SahafUygulamasi\\FormKategori.cs",
+              "RelativeToolTip": "SahafUygulamasi\\FormKategori.cs",
+              "ViewState": "AgIAAHEAAAAAAAAAAAAQwIAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T12:03:43.348Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
